@@ -49,3 +49,6 @@ Thumbs.db
 
 # Project User #
 ################
+# Node
+node_modules
+package-lock.json
